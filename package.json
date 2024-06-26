@@ -1,0 +1,13 @@
+{
+  "name": "page-spy-vercel",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "page-spy-api": "page-spy-api"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@huolala-tech/page-spy-api": "^1.8.10"
+  }
+}
