@@ -2,7 +2,7 @@
   "version": 2,
   "builds": [
     {
-      "src": "page-spy-api/index.js",
+      "src": "@huolala-tech/page-spy-api/index.js",
       "use": "@vercel/node"
     }
   ]
