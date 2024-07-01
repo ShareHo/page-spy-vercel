@@ -2,6 +2,7 @@
   "name": "page-spy-vercel",
   "version": "1.0.0",
   "description": "",
+  "main": "index.js",
   "scripts": {
     "page-spy-api": "page-spy-api"
   },
